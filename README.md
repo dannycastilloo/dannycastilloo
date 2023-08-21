@@ -12,6 +12,6 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dannycastillo.o) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dannycastilloo) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dannycastillo__) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dannycastillo_) 
 
-<a href="https://app.daily.dev/dannycastillo" align="center"><img src="https://api.daily.dev/devcards/b414e7d3d988428d8beae9873dd0eda9.png?r=2w0" width="400" alt="Danny Castillo's Dev Card"/></a>
+<a href="https://app.daily.dev/dannycastillo" align="center"><img src="https://api.daily.dev/devcards/b414e7d3d988428d8beae9873dd0eda9.png?r=2w0" width="200" alt="Danny Castillo's Dev Card"/></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
