@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Danny Castillo 👋</h1>
-<h2 align="center">Software Design and Development student with a strong focus on frontend development.</h2>
+# Hi, I'm Danny Castillo 👋
+## Software Design and Development student with a strong focus on frontend development.
 
 <a href="https://app.daily.dev/dannycastillo"><img src="https://api.daily.dev/devcards/b414e7d3d988428d8beae9873dd0eda9.png?r=7zw" width="300" alt="Danny Castillo's Dev Card"/></a>
 
