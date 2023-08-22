@@ -9,6 +9,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dannycastilloo&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dannycastilloo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="https://app.daily.dev/dannycastillo" align="center"><img src="https://api.daily.dev/devcards/b414e7d3d988428d8beae9873dd0eda9.png?r=2w0" width="200" alt="Danny Castillo's Dev Card"/></a>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
