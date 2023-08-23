@@ -73,17 +73,8 @@
 <br>
 <h1 align="center">GitHub Stats</h1>
 
-<picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=dannycastilloo&theme=radical&hide_border=false"
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dannycastilloo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=dannycastilloo&show_icons=true" />
-</picture>
+![]https://github-readme-streak-stats.herokuapp.com/?user=dannycastilloo&theme=radical&hide_border=false
+![]https://github-readme-stats.vercel.app/api/top-langs/?username=dannycastilloo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact
 
 <br>
 <h1 align="center">Dev Card</h1>
