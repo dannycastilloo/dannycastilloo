@@ -73,8 +73,10 @@
 <br>
 <h1 align="center">GitHub Stats</h1>
 
-![]https://github-readme-streak-stats.herokuapp.com/?user=dannycastilloo&theme=radical&hide_border=false
-![]https://github-readme-stats.vercel.app/api/top-langs/?username=dannycastilloo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dannycastilloo&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannycastilloo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 
 <br>
 <h1 align="center">Dev Card</h1>
