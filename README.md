@@ -11,6 +11,8 @@
 <br>
 <h2 align="center">Hosting</h2>
 
+
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 
 <br>
@@ -42,6 +44,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dannycastilloo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h1 align="center">Dev Card 📱</h1>
+<p align="center"> 
 <a href="https://app.daily.dev/dannycastillo"><img src="https://github.com/dannycastilloo/dannycastilloo/blob/main/devcard.svg" width="300" alt="Danny Castillo's Dev Card"/></a>
-
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
