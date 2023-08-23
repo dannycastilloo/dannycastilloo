@@ -45,7 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="100" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" width="100" />
-  <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" width="100" />
 </p>
 <br>
 <h1 align="center">Databases</h1>
@@ -74,11 +73,17 @@
 <br>
 <h1 align="center">GitHub Stats</h1>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=dannycastilloo&theme=radical&hide_border=false)<br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dannycastilloo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=dannycastilloo&theme=radical&hide_border=false"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dannycastilloo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+  />
+</picture>
 
 <br>
-<h1 align="center">Dev Card 📱</h1>
+<h1 align="center">Dev Card</h1>
 <p align="center"> 
 <a href="https://app.daily.dev/dannycastillo"><img src="https://github.com/dannycastilloo/dannycastilloo/blob/main/devcard.svg" width="300" alt="Danny Castillo's Dev Card"/></a>
 </p>
