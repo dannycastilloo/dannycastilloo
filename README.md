@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Danny Castillo 🧑‍💻></h1>
+<h1 align="center">Hi, I'm Danny Castillo 🧑‍💻</h1>
 <br>
 <h3 align="center"> Software Design and Development student with a strong focus on frontend development. </h3>
 
