@@ -2,10 +2,6 @@
 
 ![foto](https://github.com/dannycastilloo/dannycastilloo/assets/76531494/a43bfc7a-a836-4508-a138-8105ee0f4ffd)
 
-<h1 align="center"> Check my Portfolio </h1>
-
-<a href="https://dannycastilloo.github.io/Portfolio/">  <img ![Captura de pantalla 2023-09-30 114406](https://github.com/dannycastilloo/dannycastilloo/assets/76531494/a4c41930-9de9-4f60-a56a-3d36676ceb54) /> </a>
-
 <br>
 
 <h1 align="center">Languages</h1>
@@ -87,4 +83,5 @@
 <p align="center"> 
 <a href="https://app.daily.dev/dannycastillo"><img src="https://github.com/dannycastilloo/dannycastilloo/blob/main/devcard.svg" width="300" alt="Danny Castillo's Dev Card"/></a>
 </p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<a href="https://dannycastilloo.github.io/Portfolio/">Check my Portfolio</a>
