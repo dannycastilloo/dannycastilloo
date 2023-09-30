@@ -84,4 +84,4 @@
 <a href="https://app.daily.dev/dannycastillo"><img src="https://github.com/dannycastilloo/dannycastilloo/blob/main/devcard.svg" width="300" alt="Danny Castillo's Dev Card"/></a>
 </p>
 
-<a href="https://dannycastilloo.github.io/Portfolio/">Check my Portfolio</a>
+<a href="https://dannycastilloo.github.io/Portfolio/"> <h1 align="center">Check my Portfolio</h1></a>
