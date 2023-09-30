@@ -1,9 +1,12 @@
 <h1 align="center">Hi, I'm Danny Castillo 🧑‍💻></h1>
 <br>
 <h3 align="center"> Software Design and Development student with a strong focus on frontend development. </h3>
+
 ![foto](https://github.com/dannycastilloo/dannycastilloo/assets/76531494/6d5a58f5-3128-4b78-b0e1-bc0eeb2270fe)
 
-<h2 align="center"> Check my Portfolio <a href="https://dannycastilloo.github.io/Portfolio/"> ![Captura de pantalla 2023-09-30 114406](https://github.com/dannycastilloo/dannycastilloo/assets/76531494/a4c41930-9de9-4f60-a56a-3d36676ceb54) </a> </h2>
+<h2 align="center"> Check my Portfolio </h2>
+
+<a href="https://dannycastilloo.github.io/Portfolio/"> ![Captura de pantalla 2023-09-30 114406](https://github.com/dannycastilloo/dannycastilloo/assets/76531494/a4c41930-9de9-4f60-a56a-3d36676ceb54) </a>
 
 <br>
 
