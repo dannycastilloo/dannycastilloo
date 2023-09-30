@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Danny Castillo 🧑‍💻</h1>
 <br>
-<h3 align="center"> Software Design and Development student with a strong focus on frontend development. </h3>
+<h2 align="center"> Software Design and Development student with a strong focus on frontend development. </h2>
 
 ![foto](https://github.com/dannycastilloo/dannycastilloo/assets/76531494/a43bfc7a-a836-4508-a138-8105ee0f4ffd)
 
-<h2 align="center"> Check my Portfolio </h2>
+<h1 align="center"> Check my Portfolio </h1>
 
 <a href="https://dannycastilloo.github.io/Portfolio/"> ![Captura de pantalla 2023-09-30 114406](https://github.com/dannycastilloo/dannycastilloo/assets/76531494/a4c41930-9de9-4f60-a56a-3d36676ceb54) </a>
 
