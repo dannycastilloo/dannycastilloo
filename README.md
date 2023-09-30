@@ -18,9 +18,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="80" />      
 </p>
-<br>
-<h1 align="center">Hosting/SaaS</h1>
 
+<br>
+
+<h1 align="center">Hosting/SaaS</h1>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" width="100" />  
@@ -29,9 +30,10 @@
   <img src="https://www.svgrepo.com/show/373874/netlify.svg" width="100" />
   <img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" width="100" />    
 </p>
-<br>
-<h1 align="center">Frameworks, Platforms & Libraries</h1>
 
+<br>
+
+<h1 align="center">Frameworks, Platforms & Libraries</h1>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="100" />  
@@ -47,9 +49,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="100" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" width="100" />
 </p>
-<br>
-<h1 align="center">Databases</h1>
 
+<br>
+
+<h1 align="center">Databases</h1>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="100" />
@@ -58,9 +61,10 @@
   <img src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-454x512-53ebjxww.png" width="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="100" />      
 </p>
-<br>
-<h1 align="center">Other</h1>
 
+<br>
+
+<h1 align="center">Other</h1>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="100" />
@@ -71,17 +75,17 @@
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="100" />
 </p>
-<br>
-<h1 align="center">GitHub Stats</h1>
 
+<br>
+
+<h1 align="center">GitHub Stats</h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannycastilloo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 <br>
+
 <h1 align="center">Dev Card</h1>
 <p align="center"> 
 <a href="https://app.daily.dev/dannycastillo"><img src="https://github.com/dannycastilloo/dannycastilloo/blob/main/devcard.svg" width="300" alt="Danny Castillo's Dev Card"/></a>
 </p>
-
-<a href="https://dannycastilloo.github.io/Portfolio/"> <h1 align="center">Check my Portfolio</h1></a>
