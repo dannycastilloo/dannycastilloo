@@ -4,7 +4,7 @@
 
 <h1 align="center"> Check my Portfolio </h1>
 
-<a href="https://dannycastilloo.github.io/Portfolio/"> ![Captura de pantalla 2023-09-30 114406](https://github.com/dannycastilloo/dannycastilloo/assets/76531494/a4c41930-9de9-4f60-a56a-3d36676ceb54) </a>
+<a href="https://dannycastilloo.github.io/Portfolio/">  <img ![Captura de pantalla 2023-09-30 114406](https://github.com/dannycastilloo/dannycastilloo/assets/76531494/a4c41930-9de9-4f60-a56a-3d36676ceb54) /> </a>
 
 <br>
 
