@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,springboot,php,laravel,nodejs,express,mysql,firebase,cs" />
+    <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,express,mysql,firebase,cs" />
   </a>
 </p>
 
