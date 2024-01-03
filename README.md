@@ -4,11 +4,19 @@
 
 <br>
 
-<h1 align="center">Main Technologies</h1>
+<h1 align="center">Frontend</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,mysql,figma,sass" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,vite,figma,sass" />
+  </a>
+</p>
+
+<h1 align="center">Backend</h1>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,springboot,php,laravel,nodejs,express,mysql,firebase,cs" />
   </a>
 </p>
 
