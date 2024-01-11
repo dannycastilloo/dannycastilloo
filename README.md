@@ -23,19 +23,10 @@
 <h1 align="center">GitHub Stats</h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannycastilloo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dannycastilloo&theme=radical&show_icons=true&locale=en" alt="dannycastilloo" /></p>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dannycastilloo&label=Profile%20views&color=0e75b6&style=flat" alt="dannycastilloo" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dannycastilloo" alt="dannycastilloo" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dannycastilloo&show_icons=true&locale=en&layout=compact" alt="dannycastilloo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dannycastilloo&show_icons=true&locale=en" alt="dannycastilloo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dannycastilloo&" alt="dannycastilloo" /></p>
 
