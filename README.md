@@ -22,17 +22,18 @@
 
 <h1 align="center">GitHub Stats</h1>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannycastilloo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dannycastilloo&theme=radical&show_icons=true&locale=en" alt="dannycastilloo" /></p>
+  
+  ![](https://github-readme-stats.vercel.app/api?username=dannycastilloo&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
   
   ![](https://github-readme-streak-stats.herokuapp.com/?user=dannycastilloo&theme=radical&hide_border=false)<br/>
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dannycastilloo&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
 <h1 align="center">Trophies</h1>
-<div align="center">
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=radical"><img src="https://github-profile-trophy.vercel.app/?username=dannycastilloo" alt="dannycastilloo" /></a> </p>
-</div>
+
+![](https://github-profile-trophy.vercel.app/?username=dannycastilloo&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 <br>
 
