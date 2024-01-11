@@ -22,18 +22,14 @@
 
 <h1 align="center">GitHub Stats</h1>
 <div align="center">
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dannycastilloo&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
   ![](https://github-readme-stats.vercel.app/api?username=dannycastilloo&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
   
   ![](https://github-readme-streak-stats.herokuapp.com/?user=dannycastilloo&theme=radical&hide_border=false)<br/>
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dannycastilloo&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
-
-<h1 align="center">Trophies</h1>
-
-![](https://github-profile-trophy.vercel.app/?username=dannycastilloo&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 <br>
 
