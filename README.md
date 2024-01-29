@@ -25,7 +25,6 @@
 
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dannycastilloo&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
-  ![](https://github-readme-stats.vercel.app/api?username=dannycastilloo&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
   
   ![](https://github-readme-streak-stats.herokuapp.com/?user=dannycastilloo&theme=radical&hide_border=false)<br/>
 
