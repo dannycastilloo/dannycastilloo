@@ -29,10 +29,3 @@
   ![](https://github-readme-streak-stats.herokuapp.com/?user=dannycastilloo&theme=radical&hide_border=false)<br/>
 
 </div>
-
-<br>
-
-<h1 align="center">Dev Card</h1>
-<p align="center"> 
-<a href="https://app.daily.dev/dannycastillo"><img src="https://github.com/dannycastilloo/dannycastilloo/blob/main/devcard.svg" width="300" alt="Danny Castillo's Dev Card"/></a>
-</p>
